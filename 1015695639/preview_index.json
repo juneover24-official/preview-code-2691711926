@@ -1,44 +1,8 @@
 {
   "qq_number": "2691711926",
   "group_number": "1015695639",
-  "updated_at": "2026-04-22T16:19:19.235660",
+  "updated_at": "2026-04-23T15:52:37.624190",
   "skins": [
-    {
-      "name": "诗妤初の全彩独家小期1・08",
-      "file": "诗妤初の全彩独家小期1-08.bds",
-      "thumb": "诗妤初の全彩独家小期1-08.bds_py_26_default_thumb.png",
-      "full": "诗妤初の全彩独家小期1-08.bds_py_26_default.png"
-    },
-    {
-      "name": "皮肤名称",
-      "file": "op_诗妤初の全彩独家小期1-09.bds",
-      "thumb": "op_诗妤初の全彩独家小期1-09.bds_py_26_default_thumb.png",
-      "full": "op_诗妤初の全彩独家小期1-09.bds_py_26_default.png"
-    },
-    {
-      "name": "诗妤初の全彩独家小期1・11",
-      "file": "op_诗妤初の全彩独家小期1-11.bds",
-      "thumb": "op_诗妤初の全彩独家小期1-11.bds_py_26_default_thumb.png",
-      "full": "op_诗妤初の全彩独家小期1-11.bds_py_26_default.png"
-    },
-    {
-      "name": "诗妤初の全彩独家小期1・12",
-      "file": "op_诗妤初の全彩独家小期1-12.bds",
-      "thumb": "op_诗妤初の全彩独家小期1-12.bds_py_26_default_thumb.png",
-      "full": "op_诗妤初の全彩独家小期1-12.bds_py_26_default.png"
-    },
-    {
-      "name": "诗妤初の全彩独家小期1・10",
-      "file": "op_诗妤初の全彩独家小期1-10.bds",
-      "thumb": "op_诗妤初の全彩独家小期1-10.bds_py_26_default_thumb.png",
-      "full": "op_诗妤初の全彩独家小期1-10.bds_py_26_default.png"
-    },
-    {
-      "name": "诗妤初の全彩独家小期1・13",
-      "file": "op_诗妤初の全彩独家小期1-13.bds",
-      "thumb": "op_诗妤初の全彩独家小期1-13.bds_py_26_default_thumb.png",
-      "full": "op_诗妤初の全彩独家小期1-13.bds_py_26_default.png"
-    },
     {
       "name": "诗妤初の全彩独家小期1・11",
       "file": "op_诗妤初の全彩独家小期1-11.bdi",
@@ -74,6 +38,42 @@
       "file": "op_诗妤初の全彩独家小期1-09.bdi",
       "thumb": "op_诗妤初の全彩独家小期1-09.bdi_py_26_default_thumb.png",
       "full": "op_诗妤初の全彩独家小期1-09.bdi_py_26_default.png"
+    },
+    {
+      "name": "诗妤初の全彩独家小期1・08",
+      "file": "诗妤初の全彩独家小期1-08.bds",
+      "thumb": "诗妤初の全彩独家小期1-08.bds_py_26_default_thumb.png",
+      "full": "诗妤初の全彩独家小期1-08.bds_py_26_default.png"
+    },
+    {
+      "name": "皮肤名称",
+      "file": "op_诗妤初の全彩独家小期1-09.bds",
+      "thumb": "op_诗妤初の全彩独家小期1-09.bds_py_26_default_thumb.png",
+      "full": "op_诗妤初の全彩独家小期1-09.bds_py_26_default.png"
+    },
+    {
+      "name": "诗妤初の全彩独家小期1・11",
+      "file": "op_诗妤初の全彩独家小期1-11.bds",
+      "thumb": "op_诗妤初の全彩独家小期1-11.bds_py_26_default_thumb.png",
+      "full": "op_诗妤初の全彩独家小期1-11.bds_py_26_default.png"
+    },
+    {
+      "name": "诗妤初の全彩独家小期1・12",
+      "file": "op_诗妤初の全彩独家小期1-12.bds",
+      "thumb": "op_诗妤初の全彩独家小期1-12.bds_py_26_default_thumb.png",
+      "full": "op_诗妤初の全彩独家小期1-12.bds_py_26_default.png"
+    },
+    {
+      "name": "诗妤初の全彩独家小期1・10",
+      "file": "op_诗妤初の全彩独家小期1-10.bds",
+      "thumb": "op_诗妤初の全彩独家小期1-10.bds_py_26_default_thumb.png",
+      "full": "op_诗妤初の全彩独家小期1-10.bds_py_26_default.png"
+    },
+    {
+      "name": "诗妤初の全彩独家小期1・13",
+      "file": "op_诗妤初の全彩独家小期1-13.bds",
+      "thumb": "op_诗妤初の全彩独家小期1-13.bds_py_26_default_thumb.png",
+      "full": "op_诗妤初の全彩独家小期1-13.bds_py_26_default.png"
     }
   ]
 }
